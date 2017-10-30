@@ -2,6 +2,10 @@
 body{
   margin: 0px;
 }
+a{
+  text-decoration: none;
+  color: white;
+}
 .menu{
   background:#2C3E50;
   height: 110px;
@@ -480,13 +484,13 @@ h3{
   display: inline-block;
   margin-left: 10px;
 }
-.final .fa.fa-info-circle{
+.final .fa.fa-linkedin-square{
   color: white;
   font-size: 40px ;
   display: inline-block;
   margin-left: 10px;
 }
-.final .fa.fa-life-ring{
+.final .fa.fa-dribbble{
   color: white;
   font-size: 40px ;
   margin-left: 10px;
